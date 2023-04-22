@@ -12,4 +12,4 @@ Insights :-
 
 Conclusion to grow sales :-
 Target Women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar pradesh by showing ads/offers/coupons available on Amazon, Myntra and Flipkart.
-https://github.com/swanand-op/Vrinda-store-data-analysis/blob/main/VrindaStoreAnalysis.jpg
+![VrindaStoreAnalysis](https://user-images.githubusercontent.com/81287332/233773700-dbb25e90-a1da-4acb-a868-dd5bd76216c3.jpg)
